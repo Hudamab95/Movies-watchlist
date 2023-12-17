@@ -30,6 +30,7 @@
 
 + Semantic HTML5 markup
 + CSS custom properties
++ Javascript
 + Flexbox
 + Mobile-first workflow
 + OMDb API
